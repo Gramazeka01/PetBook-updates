@@ -1,9 +1,10 @@
 {
-  "version": "1.0.1",
-  "versionCode": 2,
+  "version": "0.5.0",
+  "versionCode": 50,
+  "channel": "beta",
   "releaseNotes": "Исправления и улучшения PetBook",
-  "downloadUrl": "https://github.com/Gramazeka01/PetBook/releases/download/v1.0.1/PetBook_v1.0.1.apk",
-  "sha512": "507a5181aeb1489e67967132df53cc73178e9c487d4947962a499e7768064bdb4b9fefcadbda7552bbfb600b23feb43faa9e5d364f86365176ae7a3ee5f9c758",
+  "downloadUrl": "https://github.com/Gramazeka01/PetBook-updates/releases/download/v0.5.0-beta/PetBook_v0.5.0-beta.apk",
+  "sha512": "c8b7ba9d07e6c992844d629cf76200ac5cf6643f6ea8870479f004587b42e11206a5c1e0949cfea26be1c90db898b6a8601a0a101e2e1604543bea1398011165",
   "forceUpdate": false,
   "releaseDate": "12 августа 2026"
 }
