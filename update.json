@@ -1,0 +1,10 @@
+{
+  "version": "0.8.0",
+  "versionCode": 13,
+  "channel": "beta",
+  "releaseNotes": "Обновление PetBook до версии 0.8.0-beta. Исправления и улучшения приложения.",
+  "downloadUrl": "https://github.com/Gramazeka01/PetBook-updates/releases/download/v0.8.0-beta/PetBook_v0.8.0-beta.apk",
+  "sha512": "b42e3cd4912c8b8e7019c0b520936530dff16addd023dbbb71d2bdf493f56e415dc2138d502a93ac138ef8d4810762e169550bc14023aecfe577e3f4539af3b9",
+  "forceUpdate": false,
+  "releaseDate": "7 ноября 2026"
+}
